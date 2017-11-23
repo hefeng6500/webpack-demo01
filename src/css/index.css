@@ -1,0 +1,16 @@
+.hello{
+	width: 1000px;
+	height: 667px;
+	margin: 0 auto;
+	text-align: center;
+	color: #000;
+	background: url('../img/test01.jpg') no-repeat center center;
+	font-family: 'qigong';
+	font-size: 36px;
+}
+@font-face{
+	font-family: 'qigong';
+	src: url('../fonts/简启体.ttf');
+	font-weight: 600;
+    font-style: normal;
+}
